@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:uts_pemmob/models/wisata_model.dart';
+import 'models/wisata_model.dart';
 import 'core/navigation_service.dart';
 import 'presentation/pages/homepage.dart';
 import 'presentation/pages/detailpage.dart';
